@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SlgUniMp_Tests' do
+  pod 'SlgUniMp', :path => '../'
+  
+  
+end
