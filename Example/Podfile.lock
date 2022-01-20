@@ -1,0 +1,16 @@
+PODS:
+  - SlgUniMp (0.1.0)
+
+DEPENDENCIES:
+  - SlgUniMp (from `../`)
+
+EXTERNAL SOURCES:
+  SlgUniMp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SlgUniMp: 57b9dcda17817ae4411cd0812cb17cca6a164c04
+
+PODFILE CHECKSUM: fb8e88d58f888fce54375184aa3a98620178ed98
+
+COCOAPODS: 1.11.2

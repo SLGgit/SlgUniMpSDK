@@ -1,0 +1,6 @@
+framework module SlgUniMp {
+  umbrella header "SlgUniMp-umbrella.h"
+
+  export *
+  module * { export * }
+}
